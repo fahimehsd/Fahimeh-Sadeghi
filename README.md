@@ -1,2 +1,2 @@
 # Hi there! This is Fahimeh Sadeghi
-## Junior Front-End Developer
+## A Junior Front-End Developer
