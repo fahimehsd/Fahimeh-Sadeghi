@@ -1,16 +1,6 @@
 # Hi there! :raised_hand_with_fingers_splayed: This is Fahimeh Sadeghi
 ## A Front-End Developer :woman_technologist:
 </br>
-<h4 align="center">Contact</h4>
-<p align="center">
-  <a href="https://t.me/fahimehsd"><img
-      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
-  <a href="https://www.linkedin.com/in/fahimehsadeghi/"><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
-    <a href="mailto:fahimehsadeghi3@gmail.com"><img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
-</p>
-
 <h2></h2>
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
@@ -53,6 +43,15 @@
   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
+</p>
+<h4 align="center">Contact</h4>
+<p align="center">
+  <a href="https://t.me/fahimehsd"><img
+      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
+  <a href="https://www.linkedin.com/in/fahimehsadeghi/"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
+    <a href="mailto:fahimehsadeghi3@gmail.com"><img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
 </p>
 <h2></h2>
 </br>
