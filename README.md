@@ -62,6 +62,6 @@
 <h2></h2>
 </br>
 <div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=atefehbakhshi&theme=algolia" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atefehbakhshi&langs_count=5&theme=algolia" />
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=fahimehsd&theme=nord" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimehsd&langs_count=5&theme=nord" />
 </div>
