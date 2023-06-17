@@ -1,6 +1,5 @@
 # Hi there! :raised_hand_with_fingers_splayed: This is Fahimeh Sadeghi
 ## A Front-End Developer :woman_technologist:
-</br>
 <h2></h2>
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
@@ -44,6 +43,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
 </p>
+<br/>
 <h4 align="center">Contact</h4>
 <p align="center">
   <a href="https://t.me/fahimehsd"><img
