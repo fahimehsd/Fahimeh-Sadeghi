@@ -13,21 +13,22 @@
 <h2></h2>
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
+   <a target="_blank" href="https://reactjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+      width="45" height="45" /></a>
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
-  <a target="_blank" href="https://typescriptlang.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-      alt="TypeScript" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.w3schools.com/html/"><img
+   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://reactjs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
-      width="45" height="45" /></a>
+  <a target="_blank" href="https://typescriptlang.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      alt="TypeScript" width="45" height="45" /></a>
+ 
   <a target="_blank" href="https://nextjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS"
       width="45" height="45" /></a>
