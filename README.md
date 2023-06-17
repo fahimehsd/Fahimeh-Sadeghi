@@ -29,7 +29,6 @@
   <a target="_blank" href="https://typescriptlang.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
       alt="TypeScript" width="45" height="45" /></a>
- 
   <a target="_blank" href="https://nextjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS"
       width="45" height="45" /></a>
