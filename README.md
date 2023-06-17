@@ -1,6 +1,7 @@
-<h4 align="center">Hi there! :raised_hand_with_fingers_splayed: This is Fahimeh Sadeghi</h4>
+<h4 align="center" >Hi there! :raised_hand_with_fingers_splayed: This is Fahimeh Sadeghi</h4>
 <h2></h2>
 <h4 align="center">A Front-End Developer :woman_technologist:</h4>
+<h2></h2>
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
    <a target="_blank" href="https://reactjs.org/"><img
