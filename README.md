@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋 This Fahimeh Sadeghi</div>**  
+# **<div align="center">Hi 👋 This is Fahimeh Sadeghi</div>**  
   
 
 ## *<div align="center">A Front-End Developer 👩‍💻</div>*  
