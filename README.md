@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Dashboard]("https://github.com/fahimehsd/dashboard-arrp")  
   
 
-- 🌱 I’m currently learning Next Js  
+- 🌱 I’m currently learning ASP.NET  
   
 
 <br/>  
