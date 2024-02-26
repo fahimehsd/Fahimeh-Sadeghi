@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on SCab
   
 
-- 🌱 I’m currently working on my React skilss  
+- 🌱 I’m currently working on my React skills
   
 
 <br/>  
