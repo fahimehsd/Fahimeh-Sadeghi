@@ -4,10 +4,10 @@
 ## *<div align="center">A Front-End Developer 👩‍💻</div>*  
   
 
-- 🔭 I’m currently working on [Dashboard]("https://github.com/fahimehsd/dashboard-arrp")  
+- 🔭 I’m currently working on SCab
   
 
-- 🌱 I’m currently learning ASP.NET  
+- 🌱 I’m currently working on my React skilss  
   
 
 <br/>  
