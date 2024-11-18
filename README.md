@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://t.me/fahimehsd"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
-  <a href="https://www.linkedin.com/in/fahimehsadeghi/"><img
+  <a href="https://www.linkedin.com/in/fahimehsadeghiw/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
     <a href="mailto:fahimehsadeghi3@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
